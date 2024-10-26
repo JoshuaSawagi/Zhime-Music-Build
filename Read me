@@ -1,0 +1,12 @@
+Befor you startup HDR remove these files
+
+- hdr
+\ultimate\mods\hdr\ui\message\ui_bgm_db.prcxml
+\ultimate\mods\hdr\ui\message\ui_gametitle_db.prcxml
+
+- hdr-assets
+\ultimate\mods\hdr-assets\ui\message\msg_title+us_en.msbt
+\ultimate\mods\hdr-assets\ui\message\msg_bgm+us_en.msbt
+
+- hdr-zhime
+\ultimate\mods\hdr-zhime\ui\param\database\ui_stage_db.prc
